@@ -1,6 +1,6 @@
-package com.ayoub.controle.cammandes.repository;
+package com.ayoub.controle.cammande.repository;
 
-import com.ayoub.controle.cammandes.model.Commande;
+import com.ayoub.controle.cammande.model.Commande;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

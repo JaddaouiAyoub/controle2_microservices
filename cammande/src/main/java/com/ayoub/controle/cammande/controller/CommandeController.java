@@ -1,7 +1,7 @@
-package com.ayoub.controle.cammandes.controller;
+package com.ayoub.controle.cammande.controller;
 
-import com.ayoub.controle.cammandes.model.Commande;
-import com.ayoub.controle.cammandes.service.CommandeService;
+import com.ayoub.controle.cammande.model.Commande;
+import com.ayoub.controle.cammande.service.CommandeService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;

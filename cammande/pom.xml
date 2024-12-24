@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.ayoub.controle</groupId>
-    <artifactId>cammandes</artifactId>
+    <artifactId>cammande</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>cammandes</name>
     <description>cammandes</description>

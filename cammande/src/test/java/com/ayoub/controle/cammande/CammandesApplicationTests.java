@@ -1,4 +1,4 @@
-package com.ayoub.controle.cammandes;
+package com.ayoub.controle.cammande;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

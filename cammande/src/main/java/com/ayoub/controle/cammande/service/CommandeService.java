@@ -1,9 +1,9 @@
-package com.ayoub.controle.cammandes.service;
+package com.ayoub.controle.cammande.service;
 
-import com.ayoub.controle.cammandes.kafka.CommandeProducer;
-import com.ayoub.controle.cammandes.model.Commande;
-import com.ayoub.controle.cammandes.model.Product;
-import com.ayoub.controle.cammandes.repository.CommandeRepository;
+import com.ayoub.controle.cammande.kafka.CommandeProducer;
+import com.ayoub.controle.cammande.model.Commande;
+import com.ayoub.controle.cammande.model.Product;
+import com.ayoub.controle.cammande.repository.CommandeRepository;
 import io.github.resilience4j.circuitbreaker.annotation.CircuitBreaker;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;

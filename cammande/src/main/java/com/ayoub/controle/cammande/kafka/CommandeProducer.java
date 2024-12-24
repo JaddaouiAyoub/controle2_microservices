@@ -1,4 +1,4 @@
-package com.ayoub.controle.cammandes.kafka;
+package com.ayoub.controle.cammande.kafka;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.kafka.core.KafkaTemplate;

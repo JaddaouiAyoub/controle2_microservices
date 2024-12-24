@@ -1,4 +1,4 @@
-package com.ayoub.controle.cammandes.model;
+package com.ayoub.controle.cammande.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;

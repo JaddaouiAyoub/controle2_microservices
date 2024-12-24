@@ -1,4 +1,4 @@
-package com.ayoub.controle.cammandes.graphql;
+package com.ayoub.controle.cammande.graphql;
 
 import lombok.Getter;
 import lombok.Setter;

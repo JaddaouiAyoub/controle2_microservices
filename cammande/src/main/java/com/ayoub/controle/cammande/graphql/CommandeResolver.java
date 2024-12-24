@@ -1,7 +1,7 @@
-package com.ayoub.controle.cammandes.graphql;
+package com.ayoub.controle.cammande.graphql;
 
-import com.ayoub.controle.cammandes.model.Commande;
-import com.ayoub.controle.cammandes.service.CommandeService;
+import com.ayoub.controle.cammande.model.Commande;
+import com.ayoub.controle.cammande.service.CommandeService;
 import graphql.kickstart.tools.GraphQLMutationResolver;
 import graphql.kickstart.tools.GraphQLQueryResolver;
 import lombok.RequiredArgsConstructor;
