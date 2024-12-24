@@ -1,0 +1,21 @@
+type Commande {
+    id: ID!
+    produitId: Long!
+    quantite: Int!
+}
+
+input CommandeInput {
+    produitId: Long!
+    quantite: Int!
+}
+
+type Query {
+    getAllCommandes: [Commande!]!
+    getCommandeById(id: ID!): Commande
+}
+
+type Mutation {
+    createCommande(commande: CommandeInput!): Commande!
+    updateCommande(id: ID!, commande: CommandeInput!): Commande!
+    deleteCommande(id: ID!): String!
+}
